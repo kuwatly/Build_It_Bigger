@@ -21,7 +21,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.v4.util.Pair;
-import android.view.View;
 import android.widget.Toast;
 
 import com.example.iyadkuwatly.myapplication.backend.myApi.MyApi;

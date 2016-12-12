@@ -22,9 +22,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.google.android.gms.ads.AdView;
-
-
 public class MainActivityFragment extends Fragment {
 
     public MainActivityFragment() {
